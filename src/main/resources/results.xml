@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<results>
+    <athlete>
+        <name>John Smith</name>
+        <rank>1</rank>
+        <score>4203</score>
+    </athlete>
+    <athlete>
+        <name>Jaan Lepp</name>
+        <rank>2-3</rank>
+        <score>3496</score>
+    </athlete>
+    <athlete>
+        <name>Foo Bar</name>
+        <rank>2-3</rank>
+        <score>3496</score>
+    </athlete>
+    <athlete>
+        <name>Jane Doe</name>
+        <rank>4</rank>
+        <score>3201</score>
+    </athlete>
+</results>
